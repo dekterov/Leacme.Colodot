@@ -4,8 +4,8 @@
 
 This application features the ability to generate colorful dots on screen touches.
 
-![index](https://user-images.githubusercontent.com/6654513/71701902-c198af80-2d89-11ea-891c-98f60f4e1c2d.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71701902-c198af80-2d89-11ea-891c-98f60f4e1c2d.png)
 
 ## Application Compiling
 
